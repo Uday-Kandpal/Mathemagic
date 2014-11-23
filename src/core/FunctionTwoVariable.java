@@ -150,9 +150,9 @@ public strictfp class FunctionTwoVariable {
         exp = exp.replace("log", " log ");
         exp = exp.replace("exp", " exp ");
         exp = exp.replace("sqrt", " sqrt ");
-        exp = exp.replace("sin", " ) ");
-        exp = exp.replace("tan", " ) ");
-        exp = exp.replace("cos", " ) ");
+        exp = exp.replace("sin", " sin ");
+        exp = exp.replace("tan", " tan ");
+        exp = exp.replace("cos", " cos ");
         return exp;
     }
 
